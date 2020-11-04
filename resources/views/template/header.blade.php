@@ -36,103 +36,34 @@
         </div>
         <div class="left-navigation">
             <ul class="list-accordion">
-                <li><a href="#" class="waves-effect"><span class="nav-icon"><i class="fa fa-home"></i></span><span class="nav-label">Dashboard</span> <span class="label label-primary">New</span></a>
+                <li><a href="#" class="waves-effect"><span class="nav-icon"><i class="fa fa-home"></i></span><span class="nav-label">Dashboard</span></a>
+
+                </li>
+                <li><a href="#" class="waves-effect"><span class="nav-icon"><i class="fa fa fa-briefcase"></i></span><span class="nav-label">Master Data</span></a>
                     <ul>
-                        <li><a href="dashboard-01.html">Dashboard - 01</a>
+                        <li><a href="basic-forms.html">Kategori</a>
                         </li>
-                        <li><a href="dashboard-02.html">Dashboard - 02</a>
+                        <li><a href="advanced-form-elements.html">Barang</a>
                         </li>
-                        <li><a href="dashboard-03.html">Dashboard - 03</a>
+
+                    </ul>
+                </li>
+                <li><a href="#"><span class="nav-icon"><i class="fa fa fa-cubes"></i></span><span class="nav-label">Stok</span></a>
+
+                </li>
+                <li><a href="ui-elements-components.html"><span class="nav-icon"><i class="fa fa fa-shopping-cart"></i></span><span class="nav-label">Penjualan</span></a>
+                </li>
+                <li><a href="#"><span class="nav-icon"><i class="fa fa fa-file-text-o"></i></span><span class="nav-label">Laporan</span></a>
+                    <ul>
+                        <li><a href="buttons-icons.html">Laporan Harian</a>
+                        </li>
+                        <li><a href="blank-widgets.html">Laporan Bulanan</a>
+                        </li>
+                        <li><a href="bootstrap-elements.html">Laporan Pembayaran</a>
                         </li>
                     </ul>
                 </li>
-                <li><a href="#" class="waves-effect"><span class="nav-icon"><i class="fa fa-align-justify"></i></span><span class="nav-label">Form Elements</span></a>
-                    <ul>
-                        <li><a href="basic-forms.html">Basic Form Elements</a>
-                        </li>
-                        <li><a href="advanced-form-elements.html">Advanced Form Elements</a>
-                        </li>
-                        <li><a href="summernote-wysiwyg.html">Summernote WYSIWYG Editor </a>
-                        </li>
-                        <li><a href="date-picker.html">Date Pickers</a>
-                        </li>
-                        <li><a href="color-picker.html">Colors Pickers</a>
-                        </li>
-                        <li><a href="form-validation.html">Form Validation</a>
-                        </li>
-                        <li><a href="advanced-form-validation.html">Advanced Form Validation</a>
-                        </li>
-                        <li><a href="signup.html">Signup  <span class="label label-primary">New</span></a>
-                        </li>
-                    </ul>
-                </li>
-                <li><a href="#"><span class="nav-icon"><i class="fa fa-table"></i></span><span class="nav-label">Tables</span></a>
-                    <ul>
-                        <li><a href="tables.html">Advanced Styled Tables</a>
-                        </li>
-                        <li><a href="data-tables.html">Data Tables</a>
-                        </li>
-                        <li><a href="basic-tables.html">Basic Tables</a>
-                        </li>
-                        <li><a href="stack-tables.html">Stack Tables</a>
-                        </li>
-                    </ul>
-                </li>
-                <li><a href="ui-elements-components.html"><span class="nav-icon"><i class="ico-lab"></i></span><span class="nav-label">UI Elements</span></a>
-                </li>
-                <li><a href="#"><span class="nav-icon"><i class="ico-hammer-wrench"></i></span><span class="nav-label">Components</span></a>
-                    <ul>
-                        <li><a href="buttons-icons.html">Buttons &amp; Icons</a>
-                        </li>
-                        <li><a href="blank-widgets.html">Blank Box Widgets</a>
-                        </li>
-                        <li><a href="bootstrap-elements.html">Bootstrap Elements</a>
-                        </li>
-                        <li><a href="grid-portlets.html">Grid Portlets</a>
-                        </li>
-                    </ul>
-                </li>
-                <li><a href="widgets.html"><span class="nav-icon"><i class="ico-lab"></i></span><span class="nav-label">UI Widgest</span>  <span class="label label-primary">New</span></a>
-                </li>
-                <li><a href="typography.html"><span class="nav-icon"><i class="fa fa-font"></i></span><span class="nav-label">Typography</span></a>
-                </li>
-                <li><a href="calendar.html"><span class="nav-icon"><i class="fa fa-calendar"></i></span><span class="nav-label">Calendar</span></a>
-                </li>
-                <li><a href="#"><span class="nav-icon"><i class="ico-chart"></i></span><span class="nav-label">Charts</span></a>
-                    <ul>
-                        <li><a href="flot-chart.html">Flot</a>
-                        </li>
-                        <li><a href="sparkline.html">Sparkline</a>
-                        </li>
-                        <li><a href="easy-pie.html">Easy Pie <span class="label label-primary">New</span></a>
-                        </li>
-                    </ul>
-                </li>
-                <li><a href="#"><span class="nav-icon"><i class="ico-lifebuoy"></i></span><span class="nav-label">Support Forum</span></a>
-                    <ul>
-                        <li><a href="forum.html">Forums, Tickets &amp; Archive</a>
-                        </li>
-                        <li><a href="forum-details.html">Forum Details</a>
-                        </li>
-                    </ul>
-                </li>
-                <li><a href="inbox.html"><span class="nav-icon"><i class="fa fa-envelope-o"></i></span><span class="nav-label">Mailbox</span> <span class="label label-primary">New</span></a>
-                </li>
-                <li><a href="note.html"><span class="nav-icon"><i class="ico-pen"></i></span><span class="nav-label">Note</span> <span class="label label-primary">New</span></a>
-                </li>
-                <li><a href="task.html"><span class="nav-icon"><i class="fa fa-tasks"></i></span><span class="nav-label">Task Management</span>  <span class="label label-primary">New</span></a>
-                </li>
-                <li><a href="#"><span class="nav-icon"><i class="fa fa-file-text-o"></i></span><span class="nav-label">Extras</span></a>
-                    <ul>
-                        <li><a href="login.html">Login</a>
-                        </li>
-                        <li><a href="invoice.html">Invoice</a>
-                        </li>
-                        <li><a href="error-page.html">404 Error</a>
-                        </li>
-                    </ul>
-                </li>
-            </ul>
+                           </ul>
         </div>
     </div>
     <div class="page-content">
@@ -153,72 +84,13 @@
                             <span class="waves-effect search-btn mobile-search-btn">
 						<i class="fa fa-search"></i>
 						</span>
-                            <span class="rightbar-action waves-effect"><i class="fa fa-bars"></i></span>
+{{--                            <span class="rightbar-action waves-effect"><i class="fa fa-bars"></i></span>--}}
                         </div>
                     </div>
                     <div class="col-md-4 responsive-fix top-mid">
                         <div class="notification-nav">
                             <ul class="clearfix">
-                                <li class="dropdown"><a href="#" data-toggle="dropdown" class="hide-small-device waves-effect"><i class="fa fa-envelope"></i><span class="alert-bubble">15</span></a>
-                                    <div role="menu" class="dropdown-menu message-dropdown msg-lists fadeInUp hide-small-device">
-                                        <div class="message-wrap">
-                                            <h4>You have 15 new messages</h4>
-                                            <ul class="clearfix">
-                                                <li class="clearfix">
-                                                    <a href="#" class="message-thumb"><img src="images/avatar/adellecharles.jpg" alt="image">
-                                                    </a><a href="#" class="message-intro"><span class="message-meta">Adellecharles </span>Nunc aliquam dolor... <span class="message-time">today at 10:20 pm</span></a>
-                                                </li>
-                                                <li class="clearfix">
-                                                    <a href="#" class="message-thumb"><img src="images/avatar/allisongrayce.jpg" alt="image">
-                                                    </a><a href="#" class="message-intro"><span class="message-meta">Allisongrayce </span>In hac habitasse ... <span class="message-time">today at 8:29 pm</span></a>
-                                                </li>
-                                                <li class="clearfix">
-                                                    <a href="#" class="message-thumb"><img src="images/avatar/amarkdalen.jpg" alt="image">
-                                                    </a><a href="#" class="message-intro"><span class="message-meta">Amarkdalen </span>Suspendisse ac mauris ... <span class="message-time">yesterday at 12:29 pm</span></a>
-                                                </li>
-                                                <li class="clearfix">
-                                                    <a href="#" class="message-thumb"><img src="images/avatar/annapickard.jpg" alt="image">
-                                                    </a><a href="#" class="message-intro"><span class="message-meta">Annapickard </span>Vivamus lacinia facilisis... <span class="message-time">yesterday at 11:48 pm</span></a>
-                                                </li>
-                                                <li class="clearfix">
-                                                    <a href="#" class="message-thumb"><img src="images/avatar/bobbyjkane.jpg" alt="image">
-                                                    </a><a href="#" class="message-intro"><span class="message-meta">Bobbyjkane </span>Donec vel iaculis ... <span class="message-time">1 month ago</span></a>
-                                                </li>
-                                                <li class="clearfix">
-                                                    <a href="#" class="message-thumb"><img src="images/avatar/chexee.jpg" alt="image">
-                                                    </a><a href="#" class="message-intro"><span class="message-meta">Chexee </span> Curabitur eget blandit...<span class="message-time">3 months ago</span></a>
-                                                </li>
-                                                <li class="clearfix">
-                                                    <a href="#" class="message-thumb"><img src="images/avatar/coreyweb.jpg" alt="image">
-                                                    </a><a href="#" class="message-intro"><span class="message-meta">Coreyweb </span>Etiam molestie nulla... <span class="message-time">1 year ago</span></a>
-                                                </li>
-                                            </ul>
-                                            <a class="btn btn-primary btn-block notification-btn clearfix waves-effect" href="#"><span>View All</span></a>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="dropdown"><a href="#" data-toggle="dropdown" class="hide-small-device waves-effect "><i class="fa fa-bell"></i><span class="alert-bubble">10</span></a>
-                                    <div role="menu" class="dropdown-menu notification-dropdown fadeInUp noty-lists hide-small-device">
-                                        <div class="notification-wrap">
-                                            <h4>You have 10 new notifications</h4>
-                                            <ul>
-                                                <li><a href="#" class="clearfix"><span class="ni w-green"><i class="fa fa-bullhorn"></i></span><span class="notification-message">Pellentesque semper posuere. <span class="notification-time clearfix">3 Min Ago</span></span></a>
-                                                </li>
-                                                <li><a href="#" class="clearfix"><span class="ni w-orange"><i class="fa fa-life-ring"></i></span><span class="notification-message">Nulla commodo sem at purus. <span class="notification-time clearfix">1 Hours Ago</span></span></a>
-                                                </li>
-                                                <li><a href="#" class="clearfix"><span class="ni w-bondi-blue"><i class="fa fa-star-o"></i></span><span class="notification-message">Fusce condimentum turpis. <span class="notification-time clearfix">3 Hours Ago</span></span></a>
-                                                </li>
-                                                <li><a href="#" class="clearfix"><span class="ni w-blue"><i class="fa fa-trophy"></i></span><span class="notification-message">Pellentesque habitant morbi. <span class="notification-time clearfix">Yesterday</span></span></a>
-                                                </li>
-                                                <li><a href="#" class="clearfix"><span class="ni w-brown"><i class="fa fa-bolt"></i></span><span class="notification-message">Fusce bibendum lacus mauris.<span class="notification-time clearfix">1 Month Ago</span></span></a>
-                                                </li>
-                                                <li><a href="#" class="clearfix"><span class="ni w-dark-yellow"><i class="fa fa-bookmark-o"></i></span><span class="notification-message">Donec id mi placerat, scelerisque.<span class="notification-time clearfix">3 Months Ago</span></span></a>
-                                                </li>
-                                            </ul>
-                                            <a class="btn btn-primary btn-block notification-btn clearfix waves-effect" href="#"><span>View All</span></a>
-                                        </div>
-                                    </div>
-                                </li>
+
                             </ul>
                         </div>
                         <div class="pull-left mobile-search">
@@ -237,24 +109,29 @@
                                             <span class="user-thumb"><img src="images/avatar/jaman.jpg" alt="image"></span>
                                         </a>
                                         <ul role="menu" class="dropdown-menu fadeInUp">
-                                            <li><a href="#"><span class="user-nav-icon"><i class="fa fa-briefcase"></i></span><span class="user-nav-label">My Account</span></a>
-                                            </li>
-                                            <li><a href="#"><span class="user-nav-icon"><i class="fa fa-user"></i></span><span class="user-nav-label">View Profile</span></a>
-                                            </li>
-                                            <li><a href="#"><span class="user-nav-icon"><i class="fa fa-cogs"></i></span><span class="user-nav-label">Settings</span></a>
-                                            </li>
-                                            <li><a href="#"><span class="user-nav-icon"><i class="fa fa-lock"></i></span><span class="user-nav-label">Logout</span></a>
+
+                                            <li class="nav-item">
+                                                <a href="{{ route('logout') }}" class="nav-link"
+                                                   onclick="event.preventDefault();
+                                                     document.getElementById('logout-form').submit();">
+                                                    {{--                                            {{ __('Logout') }}--}}
+                                                    <i data-feather="log-out"></i>
+                                                    <span>Log Out</span>
+                                                </a>
+                                                <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                                                    @csrf
+                                                </form>
                                             </li>
                                         </ul>
                                     </li>
                                 </ul>
                             </div>
                             <div class="pull-right desktop-search">
-							<span class="waves-effect search-btn">
-							<i class="fa fa-search"></i>
-							</span>
+{{--							<span class="waves-effect search-btn">--}}
+{{--							<i class="fa fa-search"></i>--}}
+{{--							</span>--}}
                             </div>
-                            <span class="rightbar-action waves-effect"><i class="fa fa-bars"></i></span>
+{{--                            <span class="rightbar-action waves-effect"><i class="fa fa-bars"></i></span>--}}
                         </div>
                     </div>
                 </div>
